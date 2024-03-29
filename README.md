@@ -1,6 +1,6 @@
 ### Welcome on my GitHub profile !
 
-### Currently following an alternated training as a Teacher Assistant in JavaScript and PHP, I'm listening to job opportunities as a Web Developper as of next September.
+### Currently following an alternated training as a Teacher Assistant in JavaScript and PHP, I'm listening to job opportunities as a Web Developper to start a new challenge in the near future.
 
 ### Tech and tools discovered during my training
 
