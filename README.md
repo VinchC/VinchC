@@ -30,3 +30,13 @@
 ### 📫 How to reach me: vinch.cm@gmail.com
 
 ### ⚡ Personal fact: I'm a slow learner and I've learnt to accept it ! And it doesn't prevent me from helping my students, on the contrary it helps me to empathize with them !
+
+<h3 align="left">Statistics </h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VinchC" alt="VinchC" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VinchC&show_icons=true&locale=en&layout=compact" alt="VinchC" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VinchC&show_icons=true&locale=en" alt="VinchC" /></p>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VinchC&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VinchC&theme=dark&hide_border=true&mode=weekly&card_width=400" alt="GitHub Streak" /></a>
