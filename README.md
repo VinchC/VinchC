@@ -37,6 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VinchC&show_icons=true&locale=en" alt="VinchC" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VinchC&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VinchC&theme=dark&hide_border=true&mode=weekly&card_width=400" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VinchC&theme=dark&hide_border=true&mode=weekly&card_width=400&card_heigth=400" alt="GitHub Streak" /></a>
