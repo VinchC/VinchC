@@ -1,6 +1,6 @@
 ### Welcome on my GitHub profile !
 
-### Currently following an alternated training as a Teacher Assistant in JavaScript and PHP, I'm listening to job opportunities as a Web Developper to start a new challenge in the near future.
+<p>Currently following an alternated training as a Teacher Assistant in JavaScript and PHP, I'm listening to job opportunities as a Web Developper to start a new challenge in the near future.</p>
 
 ### Tech and tools discovered during my training
 
@@ -21,19 +21,20 @@
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
 </p>
 
-### 🔭 I’m currently working on a project with fellow students regarding a website with a map allowing to find places and businesses with an ecological aim or feel.
+<p>🔭 I’m currently working on a project with fellow students regarding a website with a map allowing to find places and businesses with an ecological aim or feel.</p>
 
-### 🌱 I’m currently learning React, GraphQL and website deployment in continuous integration.
+<p>🌱 I’m currently learning React, GraphQL and website deployment in continuous integration.</p>
 
-### 👯 I’m looking to collaborate with a team in various and ambitious projects.
+<p>👯 I’m looking to collaborate with a team in various and ambitious projects. </p>
 
-### 📫 How to reach me: vinch.cm@gmail.com
+<p>📫 How to reach me: vinch.cm@gmail.com</p>
 
-### ⚡ Personal fact: I'm a slow learner and I've learnt to accept it ! And it doesn't prevent me from helping my students, on the contrary it helps me to empathize with them !
+<p>⚡ Personal fact: I'm a slow learner and I've learnt to accept it ! And it doesn't prevent me from helping my students, on the contrary it helps me to empathize with them !</p>
 
-<h3 align="left">Statistics </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VinchC&show_icons=true&locale=en&layout=compact" alt="VinchC" /></p>
+### Statistics
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=VinchC&show_icons=true&locale=en" alt="VinchC" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=VinchC&show_icons=true&locale=en&layout=compact" alt="VinchC" /></p>
 
-<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VinchC&theme=dark&hide_border=true&mode=weekly&card_width=400&card_heigth=400" alt="GitHub Streak" /></a></p>
+<p>&nbsp;<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VinchC&theme=dark&hide_border=true&mode=weekly&card_width=400&card_heigth=400" alt="GitHub Streak" /></a></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=VinchC&show_icons=true&locale=en" alt="VinchC" /></p>
