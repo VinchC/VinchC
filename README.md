@@ -1,6 +1,6 @@
 ### Welcome on my GitHub profile !
 
-<p>Currently following an alternated training as a Teacher Assistant in JavaScript and PHP, I'm listening to job opportunities as a Web Developper to start a new challenge in the near future.</p>
+<p>After having attended to an alternated training as a Teacher Assistant in JavaScript and PHP, I'm listening to job opportunities as a Full Stack Developper to start a new challenge.</p>
 
 ### Tech and tools discovered during my training
 
@@ -21,7 +21,7 @@
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
 </p>
 
-<p>🔭 I’m currently working on a project with fellow students regarding a website with a map allowing to find places and businesses with an ecological aim or feel.</p>
+<p>🔭 I’m currently working on a personal project (which is an photograph gallery) to improve my skills.</p>
 
 <p>🌱 I’m currently learning React, GraphQL and website deployment in continuous integration.</p>
 
@@ -29,7 +29,7 @@
 
 <p>📫 How to reach me: vinch.cm@gmail.com</p>
 
-<p>⚡ Personal fact: I'm a slow learner and I've learnt to accept it ! And it doesn't prevent me from helping my students, on the contrary it helps me to empathize with them !</p>
+<p>⚡ Personal fact: I'm an avid - yet slow - learner and I've come to accept it ! And it hasn't prevented me from helping my students, on the contrary it helps me to empathize with them !</p>
 
 ### Statistics
 
