@@ -1,6 +1,6 @@
 ### Welcome on my GitHub profile !
 
-<p>After having attended to an alternated training as a Teacher Assistant in JavaScript and PHP, I'm listening to job opportunities as a Full Stack Developper to start a new challenge.</p>
+<p>After following an alternated training as a Teacher Assistant in JavaScript and PHP at the Wild Code School, I'm looking for job opportunities as a Full Stack Developper to start a new challenge.</p>
 
 ### Tech and tools discovered during my training
 
@@ -21,15 +21,15 @@
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
 </p>
 
-<p>🔭 I’m currently working on a personal project (which is an photograph gallery) to improve my skills.</p>
+<p>🔭 I’m currently working on a personal project (which is a photograph gallery) to consolidate and improve my skills.</p>
 
 <p>🌱 I’m currently learning React, GraphQL and website deployment in continuous integration.</p>
 
-<p>👯 I’m looking to collaborate with a team in various and ambitious projects. </p>
+<p>👯 I’m looking to collaborate with a team in various and ambitious projects, in the domain of accessibility especially. </p>
 
 <p>📫 How to reach me: vinch.cm@gmail.com</p>
 
-<p>⚡ Personal fact: I'm an avid - yet slow - learner and I've come to accept it ! And it hasn't prevented me from helping my students, on the contrary it helps me to empathize with them !</p>
+<p>⚡ Personal fact: I'm eager to learn and I've tried to transmit that spirit to my students in the best way I could!</p>
 
 ### Statistics
 
