@@ -1,6 +1,6 @@
 ### Welcome on my GitHub profile !
 
-<p>After following an alternated training as a Teacher Assistant in JavaScript and PHP at the Wild Code School, I'm looking for job opportunities as a Full Stack Developper to start a new challenge.</p>
+<p>After following an alternated training as a Teacheing Assistant in JavaScript and PHP at Wild Code School, I'm looking for job opportunities as a Full Stack Developper to start a new challenge!</p>
 
 ### Tech and tools discovered during my training
 
@@ -23,7 +23,7 @@
 
 <p>🔭 I’m currently working on a personal project (which is a photograph gallery) to consolidate and improve my skills.</p>
 
-<p>🌱 I’m currently learning React, GraphQL and website deployment in continuous integration.</p>
+<p>🌱 I’m currently focusing on the accessibility and security topics, while practicing React, GraphQL and website deployment in continuous integration.</p>
 
 <p>👯 I’m looking to collaborate with a team in various and ambitious projects, in the domain of accessibility especially. </p>
 
