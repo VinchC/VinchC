@@ -37,4 +37,7 @@
 
 <img height="200" src="https://streak-stats.demolab.com/?user=VinchC" alt="GitHub Streak" />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VinchC)](https://git.io/streak-stats)
+
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=VinchC&theme=dark&show_icons=true&locale=en" alt="VinchC" />
