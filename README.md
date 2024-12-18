@@ -33,8 +33,8 @@
 
 ### Statistics
 
-<img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=VinchC&theme=dark&show_icons=true&locale=en&layout=compact" alt="VinchC" />
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=VinchC&show_icons=true&locale=en&layout=compact" alt="VinchC" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=VinchC" alt="GitHub Streak" /></a>
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=VinchC&theme=dark&show_icons=true&locale=en" alt="VinchC" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=VinchC&show_icons=true&locale=en" alt="VinchC" />
