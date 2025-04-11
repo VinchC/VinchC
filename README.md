@@ -1,10 +1,11 @@
 ### Welcome on my GitHub profile !
 
-<p>I'm currently following a Business Data Analyst alternated training (Bac+5) at DataScientest school, while working as an Assistant Project Manager Data at Polynom, which tailors Data- and IA-driven solutions.</p>
+<p>I'm currently employed as an Assistant Project Manager Data at <a href="https://www.polynom.io/" target="_blank">Polynom</a>a>, which tailors Data- and IA-driven solutions, while following a Business Data Analyst alternated training (Bac+5) at DataScientest school.</p>
 
 ### Tech and tools discovered during my training
 
 <p>
+  <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=white" />
