@@ -28,7 +28,7 @@
 
 <p>👯 I’m looking to collaborate with a team in various and ambitious projects.</p>
 
-<p>📫 <a href="mailto:vinch.cm@gmail.com">How to reach me‹/a></p>
+<p>📫 <a href="mailto:vinch.cm@gmail.com">How to reach me</a></p>
 
 <p>⚡ Personal fact: I'm eager to learn and I've tried to transmit that spirit to my students in the best way I could!</p>
 
