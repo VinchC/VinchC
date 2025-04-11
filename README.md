@@ -1,6 +1,6 @@
 ### Welcome on my GitHub profile !
 
-<p>After following an alternated training as a Teaching Assistant in React / TypeScript / GraphQL and PHP / Symfony at Wild Code School, I'm looking for job opportunities as a Full Stack Developper to start a new challenge!</p>
+<p>I'm currently following a Business Data Analyst alternated training (Bac+5) at DataScientest school, while working as an Assistant Project Manager Data at Polynom, which tailors Data- and IA-driven solutions.</p>
 
 ### Tech and tools discovered during my training
 
