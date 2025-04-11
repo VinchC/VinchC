@@ -1,6 +1,6 @@
 ### Welcome on my GitHub profile !
 
-<p>I'm currently employed as an Assistant Project Manager Data at <a target="_blank" href="https://www.polynom.io/">Polynom</a>, which tailors Data- and IA-driven solutions, while following a Business Data Analyst alternated training (Bac+5) at DataScientest school.</p>
+<p>I'm currently employed as an Assistant Project Manager Data at <a href="https://www.polynom.io/" target="_blank">Polynom</a>, which tailors Data- and AI-driven solutions, while following a Business Data Analyst alternated training (Bac+5) at DataScientest school.</p>
 
 ### Tech and tools discovered during my training
 
