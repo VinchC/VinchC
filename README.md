@@ -1,6 +1,6 @@
 ### Welcome on my GitHub profile !
 
-<p>I'm currently employed as an Assistant Project Manager Data at <a href="https://www.polynom.io/" target="blank">Polynom</a>, which tailors Data- and AI-driven solutions, while following a Business Data Analyst alternated training (Bac+5) at DataScientest school.</p>
+<p>I'm currently employed as an Assistant Project Manager Data at <a href="https://www.polynom.io/" target="_blank">Polynom</a>, which tailors Data- and AI-driven solutions, while following a Business Data Analyst alternated training (Bac+5) at DataScientest school.</p>
 
 ### Tech and tools discovered during my training
 
@@ -28,7 +28,7 @@
 
 <p>👯 I’m looking to collaborate with a team in various and ambitious projects.</p>
 
-<p>📫 ‹a href="mailto:vinch.cm@gmail.com">How to reach me‹/a></p>
+<p>📫 <a href="mailto:vinch.cm@gmail.com">How to reach me‹/a></p>
 
 <p>⚡ Personal fact: I'm eager to learn and I've tried to transmit that spirit to my students in the best way I could!</p>
 
